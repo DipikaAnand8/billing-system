@@ -1,2 +1,2 @@
 # billing-system
-first semester VITyarthi projrct
+First semester VITyarthi project
